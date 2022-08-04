@@ -25,4 +25,4 @@ Version made for DIY 6 speed Analog axis + 1 Digital reverse shifters.
 * PCB
 
 *Kicad project* : https://github.com/Plunne/SimCentralizer/tree/pcb\\
-*GERBER files* : https://github.com/Plunne/SimCentralizer/releases/tag/v1.10\\
+*GERBER files* : https://github.com/Plunne/SimCentralizer/releases/tag/v1.10
