@@ -1,6 +1,5 @@
 #+TITLE: SIMCENTRALIZER
 #+AUTHOR: Lena SAVY
-#+OPTIONS: \n:t
 
 A simulation peripherals centralizer, more than a hub.
 
@@ -25,5 +24,5 @@ Version made for DIY 6 speed Analog axis + 1 Digital reverse shifters.
 
 * PCB
 
-*Kicad project* : https://github.com/Plunne/SimCentralizer/tree/pcb
-*GERBER files* : https://github.com/Plunne/SimCentralizer/releases/tag/v1.10
+*Kicad project* : https://github.com/Plunne/SimCentralizer/tree/pcb\\
+*GERBER files* : https://github.com/Plunne/SimCentralizer/releases/tag/v1.10\\
