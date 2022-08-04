@@ -1,0 +1,28 @@
+#+TITLE: SIMCENTRALIZER
+#+AUTHOR: Lena SAVY
+
+A simulation peripherals centralizer, more than a hub.
+
+* TABLE OF CONTENTS :toc:
+- [[#code][CODE]]
+  - [[#sh6][SH6]]
+  - [[#g27][G27]]
+- [[#pcb][PCB]]
+
+* CODE
+
+** SH6
+Version made for DIY 6 speed Analog axis + 1 Digital reverse shifters.
+
+*Link* : https://github.com/Plunne/SimCentralizer/tree/SH6
+
+** G27
+
+Version made for DIY 6 speed Analog axis + 1 Digital reverse shifters.
+
+*Link* : https://github.com/Plunne/SimCentralizer/tree/G27
+
+* PCB
+
+*Kicad project* : https://github.com/Plunne/SimCentralizer/tree/pcb
+*GERBER files* : https://github.com/Plunne/SimCentralizer/releases/tag/v1.10
