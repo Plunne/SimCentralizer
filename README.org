@@ -1,5 +1,6 @@
 #+TITLE: SIMCENTRALIZER
 #+AUTHOR: Lena SAVY
+#+OPTIONS: \n:t
 
 A simulation peripherals centralizer, more than a hub.
 
